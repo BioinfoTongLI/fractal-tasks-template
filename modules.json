@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "homePage": "",
+  "repos": {
+    "https://github.com/BioinfoTongLI/modules.git": {
+      "modules": {
+        "sanger": {
+          "fractal/thresholding": {
+            "branch": "develop",
+            "git_sha": "dd33e4c294961839584df8a0d68c4c2c8fbf1d6e",
+            "installed_by": ["modules"]
+          }
+        }
+      }
+    }
+  }
+}

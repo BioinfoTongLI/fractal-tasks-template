@@ -1,2 +1,8 @@
 tmp
 .DS_Store
+.zarr*
+workflows/.nextflow*
+workflows/work*
+workflows/test_out*
+2020*
+.nextflow*

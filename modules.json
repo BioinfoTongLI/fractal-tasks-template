@@ -5,6 +5,11 @@
     "https://github.com/BioinfoTongLI/modules.git": {
       "modules": {
         "sanger": {
+          "fractal/cellpose": {
+            "branch": "develop",
+            "git_sha": "ebc7755b928a4360e02582af788d5dc05e702416",
+            "installed_by": ["modules"]
+          },
           "fractal/thresholding": {
             "branch": "develop",
             "git_sha": "dd33e4c294961839584df8a0d68c4c2c8fbf1d6e",

@@ -7,5 +7,11 @@ TASK_LIST = [
         name="Thresholding Label Task",
         executable="thresholding_label_task.py",
         meta={"cpus_per_task": 1, "mem": 4000},
+        category="Segmentation",
+        tags=[
+            "Instance Segmentation",
+            "Classical segmentation"
+        ],
+        docs_info="file:docs_info/thresholding_task.md"
     ),
 ]
